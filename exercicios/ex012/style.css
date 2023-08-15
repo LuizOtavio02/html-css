@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+body{
+    background-color: white;
+    font-style: arial;
+    font-size: large;
+    font-weight: 100;
+}
+
+h1{
+    color: blue;
+    font-style: italic;
+
+}
+
+h2{
+    color: brown;
+}
+
+p{
+    color: black;
+    font-size: medium;
+}
